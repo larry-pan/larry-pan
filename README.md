@@ -1,4 +1,4 @@
-## How you doing? 👋
+## Hey! 👋
 
 I do everything out of passion. Some highlights:
 
