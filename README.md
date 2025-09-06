@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I do everything out of passion. Some highlights:
+I do stuff for fun. Some highlights:
 
 **Meetcode**  
 AI-Powered Real Time Coding Technical Interview Prep  
