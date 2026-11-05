@@ -1,13 +1,8 @@
-## Hey! 👋
+CS student @ the University of Waterloo. Prev. SWE @ Shopify, RevisionDojo (YC F24), RCMP
 
-I do stuff for fun. Some highlights:
+What I've done:
 
-**Meetcode**  
-AI-Powered Real Time Coding Technical Interview Prep  
-Tech Stack: Express/Node, React, MongoDB  
-[🔗 Repository Link](https://github.com/Jam-Cai/MeetCode) | [🌐 Live Demo](http://meetcode.world/)
-
-**Farsight.fyi**  
-The fastest tech layoff warnings on market, with full webscraping -> LLM -> CNN pipeline  
-Tech Stack: PyTorch, FastAPI, React, SQL  
-[🔗 Repository Link](https://github.com/Jam-Cai/layoff-radar) | [🌐 Live Demo](https://devpost.com/software/farsight-fyi)
+- Backend systems optimization and performance
+- Diffusion models
+- Fullstack & Agents
+- Flight control firmware
